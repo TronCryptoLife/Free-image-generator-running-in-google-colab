@@ -39,7 +39,7 @@ Step 2. Google Colab setup
 
 <img width="541" height="529" alt="image" src="https://github.com/user-attachments/assets/26d0c054-c9b3-4de6-8439-1a0c729f74e7" />
 
-7. Then select 'T4 GPU' and make sure Python 3 is selected if it's not already, and click save. it may ask you if you are sure you want to continue after clicking 'T4 GPU' just click yes. then and wait for it to connect, after which you are all done setup process.
+7. Then select 'T4 GPU' and make sure Python 3 is selected if it's not already, and click save. it may ask you if you are sure you want to continue after clicking 'T4 GPU' just click yes. Then wait for it to connect, after which you are all done with the setup process.
 
 <img width="737" height="713" alt="image" src="https://github.com/user-attachments/assets/b8579fc2-3356-4934-b029-56df40dcbe8d" />
 
