@@ -172,7 +172,7 @@ Important notes on generating images again
 
 <img width="1913" height="816" alt="image" src="https://github.com/user-attachments/assets/f5287d0c-ebe5-45b2-a7b1-1a954b885494" />
 
-5. Enjoy your free image generator😁, and follow me on twitter: https://x.com/TronCryptoLife
+5. Enjoy your free image generator😁, and follow me on twitter: https://x.com/That_Teck_Guy
 
 
 
