@@ -1,5 +1,5 @@
 # Free-image-generator-running-in-google-colab
-This is a free (and uncensored) image generator using the latest version on Juggernaut SDXL and running on a free Google Colab GPU giving you roughly 2 hours of daily use for free but it could be more or less. I've made the this guide easy for anyone to use without any tech experience, just follow the steps below. Also after the easy setup i'll make the techincal setup for developers through VSCode.
+This is a free (and uncensored) image generator using the latest version on Juggernaut SDXL and running on a free Google Colab GPU giving you roughly 2 hours of daily use for free but it could be more or less. I've made this guide easy for anyone to use without any tech experience, just follow the steps below. Also after the easy setup i'll make the techincal setup for developers through VSCode.
 
 Notes:
 1. Yes this is a true uncensored model and you can use it to make any kind of image. Including NSFW Content that is intended for 18+ year old users.
