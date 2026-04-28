@@ -164,7 +164,7 @@ Important notes on generating images again
 -
 1. If you want to generate images again with the same configurations settings, same image prompt, same everything, just click the play button again in the code on step 5. Batch Generate and Save Images. 
 2. If you change anything in the configurations Cell for example: image size, or change your image prompt, then you need to click the play button again in the configurations cell after you change something. After that you can click the play button again in step 5. (Batch Generate and Save Images) to generate images with the new configuration settings.
-3. Remember when your finished to disconnect your GPU to say your free GPU hours (see photo below). When you do this or close out of colab you will need to run all the cells over again or if something is not working and you want to start over this helps by disonnecting and reconnecting, and running all the cells over again.
+3. Remember when your finished to disconnect your GPU to save your free GPU hours (see photo below). When you do this or close out of colab you will need to run all the cells over again or if something is not working and you want to start over this helps by disonnecting and reconnecting, and running all the cells over again.
 
 <img width="570" height="591" alt="image" src="https://github.com/user-attachments/assets/f0e206e8-ccb9-4f4b-ad5d-312bfc050493" />
 
